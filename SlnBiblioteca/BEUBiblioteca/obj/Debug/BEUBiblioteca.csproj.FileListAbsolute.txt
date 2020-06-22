@@ -1,0 +1,11 @@
+C:\Users\crist\source\repos\SlnBiblioteca\BEUBiblioteca\bin\Debug\BEUBiblioteca.dll.config
+C:\Users\crist\source\repos\SlnBiblioteca\BEUBiblioteca\bin\Debug\BEUBiblioteca.dll
+C:\Users\crist\source\repos\SlnBiblioteca\BEUBiblioteca\bin\Debug\BEUBiblioteca.pdb
+C:\Users\crist\source\repos\SlnBiblioteca\BEUBiblioteca\bin\Debug\EntityFramework.dll
+C:\Users\crist\source\repos\SlnBiblioteca\BEUBiblioteca\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\crist\source\repos\SlnBiblioteca\BEUBiblioteca\bin\Debug\EntityFramework.xml
+C:\Users\crist\source\repos\SlnBiblioteca\BEUBiblioteca\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\crist\source\repos\SlnBiblioteca\BEUBiblioteca\obj\Debug\BEUBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\SlnBiblioteca\BEUBiblioteca\obj\Debug\BEUBiblioteca.csproj.CopyComplete
+C:\Users\crist\source\repos\SlnBiblioteca\BEUBiblioteca\obj\Debug\BEUBiblioteca.dll
+C:\Users\crist\source\repos\SlnBiblioteca\BEUBiblioteca\obj\Debug\BEUBiblioteca.pdb
